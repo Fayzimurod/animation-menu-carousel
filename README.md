@@ -1,3 +1,7 @@
+<!-- <p>
+Dodgy
+</p> -->
+
 # 🍕 3D Pizza Slider - Interactive Product Showcase
 
 A stunning, interactive 3D circular slider built with HTML, CSS, and JavaScript. This project creates an immersive product showcase with rotating images and synchronized content display - perfect for e-commerce product galleries or creative portfolios.
