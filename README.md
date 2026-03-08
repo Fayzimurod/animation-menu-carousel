@@ -26,7 +26,16 @@ A stunning, interactive 3D circular slider built with HTML, CSS, and JavaScript.
 - 6 product images named 1.PNG through 6.PNG
 - Basic understanding of HTML/CSS/JS (for customization)
 
+## 📱 Browser Support
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/3d-pizza-slider.git
+- Chrome (latest) ✓
+- Firefox (latest) ✓
+- Safari (latest) ✓
+- Edge (latest) ✓
+- Opera (latest) ✓
+
+## 👏 Acknowledgments
+
+- Font 'Pacifico' provided by Google Fonts
+- Inspired by modern e-commerce product displays
+- Built with pure HTML, CSS, and JavaScript - no frameworks needed!
